@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrutej Jariwala</h1>
 <h3 align="center">A mechatronics engineer who loves to code.</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRrbmJzZ3E2eDk0MWpybWl4cGEzY3J0dTBrbHI2MjNqOTd2c3hqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutej27&label=Profile%20views&color=0e75b6&style=flat" alt="shrutej27" /> </p>
 
