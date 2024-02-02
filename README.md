@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrutej Jariwala</h1>
 <h3 align="center">A mechatronics engineer who loves to code.</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutej27&label=Profile%20views&color=0e75b6&style=flat" alt="shrutej27" /> </p>
 
 - 🌱 I’m currently learning **LLM and it's use case in energy feild.**
